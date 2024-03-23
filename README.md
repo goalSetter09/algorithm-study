@@ -5,15 +5,8 @@
 [![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/ellynhan/Challenge100_Code_Test_Study/fork)
 
 </div>
+# 코테이토 9기 알고리즘 스터디 📝
 
-![img](./.Readme/logo.png)
----
-# 💯 알고리즘 및 코딩 테스트 문제 풀이 챌린지 100 📝
-`누구나` 참여 가능한 알고리즘 및 코테 문제 풀이 스터디입니다.
-
-3개월 이상 참여 안하신 분들은 알아서 중도포기 처리할게요!
-
-참여 방법 설명글: <https://waytocse.tistory.com/59>
 <br />
 <br />
 
@@ -25,7 +18,6 @@
 5. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **토요일**에 Merge예정)
 6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 7. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
-8. 오픈톡방 <https://open.kakao.com/o/gI9Vfmxd> 들어오시면 매주 토요일 PR알림 + 모르는거 물어보세요 
 
 <br />
 <br />
@@ -57,7 +49,7 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 
 ## ✅ PR 규칙
 - PR 제목: 이름 / 주차 / 몇 문제
--  ```jaewon han / 8월 1주차 / 4문제 ```
+-  ```gildong hong / 3월 3주차 / 4문제 ```
 -  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
 
 
