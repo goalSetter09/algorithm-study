@@ -5,6 +5,7 @@
 [![Forks Welcome](https://img.shields.io/badge/Fork-welcome!!-brightgreen.svg?style=flat-square)](https://github.com/ellynhan/Challenge100_Code_Test_Study/fork)
 
 </div>
+---
 # 코테이토 9기 알고리즘 스터디 📝
 
 <br />
